@@ -1,0 +1,9 @@
+###
+POST  http://localhost:3000/historial
+Content-Type: application/json
+
+{
+    "city" :  "barcelonaa"
+
+
+}
